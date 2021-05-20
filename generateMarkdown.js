@@ -33,8 +33,8 @@ function generateMarkdown(data) {
   ${data.tests}
   
   ## Questions
-  Feel free to contact me through ${data.questions}
-    or 
+  ${data.questions}
+     
   Github: ${data.github}
   E-mail: ${data.email}
   
